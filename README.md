@@ -1,10 +1,14 @@
 
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Made+For+Hack+AT+SITS+HACKATHON" alt="Typing SVG">
   </a>
 </p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/110530263/236652398-3911a400-9534-4d49-9c0d-c694100a1808.jpg" width="400" />
+</p>
+
 
 ## Description
 
