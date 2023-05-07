@@ -8,15 +8,20 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/110530263/236652398-3911a400-9534-4d49-9c0d-c694100a1808.jpg" width="400" />
 </p>
+<div align="center">
+  <a href="https://sits-hackathon.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Click%20Me-red.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Click Me" to try the app />
+  </a>
+</div>
 
-## To check the website working use the credentials provided below 
-- Guard mail : railwayguard345@gmail.com
+## To check the website working use the credentials provided below
 
-- Guard pass : 9$uO6h@XJfWp
+- Guard mail: railwayguard345@gmail.com
+- Guard pass: 9$uO6h@XJfWp
 
-- Admin mail : projectrailway002@gmail.com
+- Admin mail: projectrailway002@gmail.com
+- Admin pass: Yash@123
 
-- Admin pass : Yash@123
 ## Description
 
 The Pythakon is an **IOT Based Railway Accident Prevention System** , made for  SITS hackathon at .
