@@ -9,7 +9,14 @@
   <img src="https://user-images.githubusercontent.com/110530263/236652398-3911a400-9534-4d49-9c0d-c694100a1808.jpg" width="400" />
 </p>
 
+## To check the website working use the credentials provided below 
+- Guard mail : railwayguard345@gmail.com
 
+- Guard pass : 9$uO6h@XJfWp
+
+- Admin mail : projectrailway002@gmail.com
+
+- Admin pass : Yash@123
 ## Description
 
 The Pythakon is an **IOT Based Railway Accident Prevention System** , made for  SITS hackathon at .
