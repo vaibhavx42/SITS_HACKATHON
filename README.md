@@ -14,7 +14,7 @@
   </a>
 </div>
 
-## To check the website working use the credentials provided below
+## Use Following credentials to try the app Link for site has been given above. 
 
 - Guard mail: railwayguard345@gmail.com
 - Guard pass: 9$uO6h@XJfWp
